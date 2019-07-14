@@ -1,0 +1,2 @@
+[remote]
+pihole.shikata.xyz

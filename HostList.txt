@@ -1,0 +1,5 @@
+# Default Pi-Hole Entries #
+192.168.1.2 PiHole
+192.168.1.2 pi.hole
+
+# Added By Github Script #
